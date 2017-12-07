@@ -1,9 +1,7 @@
-package Goodmorning_hsu;
+package Goodmorning;
 
 import org.junit.Assert;
 import org.junit.Test;
-
-import static org.junit.Assert.*;
 
 public class Goodmorning86922Test {
 
